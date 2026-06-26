@@ -1,1 +1,12 @@
 
+# CODEOWNERS
+
+# Default owner for the profile README repository.
+
+* @1n50mn14c933k
+
+# Protect repository configuration and ownership rules.
+
+/.github/ @1n50mn14c933k
+/README.md @1n50mn14c933k
+/LICENSE @1n50mn14c933k
