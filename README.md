@@ -1,6 +1,6 @@
 👋 Hi, I’m 1n50mn14c933k
 
-IT System Administrator** building a security-focused homelab for learning, documentation, automation, monitoring, and resilient self-hosted infrastructure.
+IT System Administrator, building a security-focused homelab for learning, documentation, automation, monitoring, and resilient self-hosted infrastructure.
 
 My goal is to build a clean, repeatable, well-documented lab that follows real-world security practices: no secrets in Git, least privilege, backups before changes, monitoring before production, and infrastructure that can be rebuilt from documentation.
 
