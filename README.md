@@ -37,7 +37,7 @@ My goal is to build a clean, repeatable, well-documented lab that follows real-w
 
 | Project                   | Purpose                                                          | Status   |
 | ------------------------- | ---------------------------------------------------------------- | -------- |
-| `homelab-core`            | Main documentation, architecture, inventory templates, standards | Planning |
+| [homelab-core](https://github.com/1n50mn14c933k/homelab-core) | Main documentation, architecture, inventory templates, standards | Foundation |
 | `docker-security-stack`   | Secure Docker Compose services and hardening examples            | Planning |
 | `ansible-linux-hardening` | Linux baseline hardening with Ansible                            | Planning |
 | `network-monitoring`      | Monitoring, logging, alerting, and dashboards                    | Planning |
