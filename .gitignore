@@ -1,0 +1,5 @@
+
+# Local raw homelab inventory output - do not publish
+docs/_incoming/
+*.inventory.txt
+*-inventory.txt
