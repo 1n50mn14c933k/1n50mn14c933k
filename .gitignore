@@ -3,3 +3,5 @@
 docs/_incoming/
 *.inventory.txt
 *-inventory.txt
+
+private/
