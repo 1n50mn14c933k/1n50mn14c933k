@@ -1,10 +1,10 @@
 # 👋 Hi, I’m 1n50mn14c933k
 
-IT System Administrator, homelab builder, and independent software developer.
+IT System Administrator, homelab builder, and independent software developer (Vibe Coder 😉).
 
 I work on security-focused infrastructure, automation, self-hosting, and practical software projects.
 
-My current software project is **KOLFAT**, beginning with **MEDIA KOLFAT** — a Windows application for organizing and managing large photo and video collections.
+My current software project is **KOLFAT**, beginning with **MEDIA KOLFAT**, a Windows application for organizing and managing large photo and video collections.
 
 My infrastructure work focuses on building clean, repeatable, well-documented systems that follow real-world security practices: no secrets in Git, least privilege, backups before changes, monitoring before production, and infrastructure that can be rebuilt from documentation.
 
@@ -97,23 +97,31 @@ The proprietary MEDIA KOLFAT application source code is maintained separately in
 
 **Infrastructure & Virtualization**
 
-Proxmox · VMware ESX · vCenter · LXCs · Talos Linux · Kubernetes · Docker · Docker Compose
+Proxmox VE · VMware ESX · vCenter · LXCs · VMs · Docker · Docker Compose · Talos Linux · Kubernetes
 
-**Security & Hardening**
+**Networking, DNS & Edge**
 
-Linux hardening · Wazuh · Kali Linux · ParrotOS · Bitwarden · authentik · WireGuard · NetBird · Pangolin
+UniFi · Technitium DNS · Unbound · AdGuard Home · Cloudflare · Traefik · Pangolin · WireGuard · NetBird
 
-**Networking & DNS**
+**Security, Identity & Hardening**
 
-UniFi · Unbound · AdGuard Home · Network monitoring · PRTG · Checkmk
+Linux hardening · Wazuh · Authentik · Bitwarden · Kali Linux · ParrotOS · Zero-trust remote access · Xray VLESS + REALITY
+
+**Automation, DevOps & Source Control**
+
+Ansible · Semaphore · GitHub · Gitea · GitHub Actions · Dependabot · Infrastructure documentation · Change control
+
+**Monitoring, Logging & Search**
+
+Elasticsearch · PRTG · Checkmk · Uptime Kuma · Centralized logging · Alerting · Service health monitoring
 
 **Self-Hosted Services**
 
-Apache Guacamole · Element · Immich · Wallos · Kasm Workspaces · n8n · Nexterm · Dockhand
+Immich · Matrix / Element · LiveKit · Apache Guacamole · Kasm Workspaces · n8n · Nexterm · Dockhand · Wallos · Open WebUI
 
-**Automation & Recovery**
+**Backup & Recovery**
 
-Ansible · GitHub · Veeam · Backup testing · Disaster recovery documentation
+Veeam · Proxmox backups · Snapshots · Backup testing · Restore validation · Disaster recovery documentation
 
 ---
 
