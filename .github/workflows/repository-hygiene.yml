@@ -25,11 +25,12 @@ jobs:
 
           test -f ".github/CODEOWNERS"
           test -f ".github/dependabot.yml"
+          test -f ".gitignore"
           test -f "README.md"
           test -f "SECURITY.md"
           test -f "LICENSE"
 
-      - name: Check for dangerous secret file names
+      - name: Block dangerous secret file names
         shell: bash
         run: |
           set -euo pipefail
@@ -37,13 +38,18 @@ jobs:
           blocked_files='
           .env
           .env.local
+          .env.production
           id_rsa
           id_ed25519
           passwords.txt
           secrets.yml
           secrets.yaml
+          credentials.yml
+          credentials.yaml
           *.pem
           *.key
+          *.p12
+          *.pfx
           '
 
           for file in $blocked_files; do
@@ -54,3 +60,16 @@ jobs:
           done
 
           echo "No blocked sensitive file names found."
+
+      - name: Check tracked files for obvious credential markers
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git grep -nEI             '(BEGIN (RSA |OPENSSH |EC )?PRIVATE KEY|github_pat_[A-Za-z0-9_]+|ghp_[A-Za-z0-9]+|AKIA[0-9A-Z]{16})'             -- ':!*.md' ':!*.example' ':!.github/workflows/repository-hygiene.yml'
+          then
+            echo "Potential credential material detected in tracked files."
+            exit 1
+          fi
+
+          echo "No obvious credential markers detected."
