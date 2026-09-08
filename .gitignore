@@ -1,7 +1,29 @@
-
 # Local raw homelab inventory output - do not publish
 docs/_incoming/
 *.inventory.txt
 *-inventory.txt
 
+# Private working material
 private/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+secrets.yml
+secrets.yaml
+credentials.yml
+credentials.yaml
+passwords.txt
+
+# Private keys / certificates / signing material
+id_rsa
+id_ed25519
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Common local editor/OS artifacts
+.DS_Store
+Thumbs.db
