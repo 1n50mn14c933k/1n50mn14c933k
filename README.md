@@ -20,7 +20,9 @@ The first product is **MEDIA KOLFAT**.
 
 MEDIA KOLFAT is a Windows desktop application designed to help users organize and manage large photo and video collections in a practical, predictable, and privacy-conscious way.
 
-The application is currently in final release preparation.
+**MEDIA KOLFAT is now available on the Microsoft Store.** 🎉
+
+🛍️ https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
 
 **Core focus:**
 
@@ -34,12 +36,13 @@ The application is currently in final release preparation.
 - Dedicated dark user interface
 - Local-first media processing
 
-MEDIA KOLFAT is planned to be distributed through the **Microsoft Store**.
+The core edition is available free of charge, while **MEDIA KOLFAT PRO** is intended to provide additional advanced functionality over time.
 
-The core edition is planned to remain available free of charge, while **MEDIA KOLFAT PRO** is intended to provide additional advanced functionality over time.
+The current priority is delivering the best possible Windows experience. If MEDIA KOLFAT receives strong adoption, positive feedback and growing community demand, I would like to explore additional desktop platforms such as **Linux** and **macOS** in the future.
 
 ### Links
 
+- 🛍️ Microsoft Store: https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
 - 🌐 KOLFAT: https://kolfat.app/
 - 🎞️ MEDIA KOLFAT: https://kolfat.app/en/Media_Kolfat/
 - ⭐ GitHub: https://github.com/1n50mn14c933k/Media_Kolfat
@@ -80,7 +83,7 @@ The proprietary MEDIA KOLFAT application source code is maintained separately in
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [MEDIA KOLFAT](https://github.com/1n50mn14c933k/Media_Kolfat) | Windows photo and video organization software | Release preparation |
+| [MEDIA KOLFAT](https://github.com/1n50mn14c933k/Media_Kolfat) | Windows photo and video organization software | Released on Microsoft Store |
 | [KOLFAT](https://kolfat.app/) | Independent software project and product ecosystem | Active |
 | [homelab-core](https://github.com/1n50mn14c933k/homelab-core) | Main homelab documentation, architecture, inventory templates, and standards | Active |
 | `docker-security-stack` | Secure Docker Compose services and hardening examples | Planning |
@@ -127,8 +130,8 @@ Veeam · Proxmox backups · Snapshots · Backup testing · Restore validation ·
 
 ## 📌 Current Goals
 
-- Bring **MEDIA KOLFAT** to its first public production release
-- Continue building the KOLFAT software ecosystem
+- Deliver the best possible software experience for **MEDIA KOLFAT** users
+- Grow the KOLFAT software ecosystem based on real user feedback and adoption
 - Maintain a public, sanitized homelab knowledge base that documents what I built, why I built it, how it is secured, how it is backed up, and how it can be rebuilt
 
 ---
