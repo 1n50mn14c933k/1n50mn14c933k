@@ -40,6 +40,29 @@ The core edition is available free of charge, while **MEDIA KOLFAT PRO** is inte
 
 The current priority is delivering the best possible Windows experience. If MEDIA KOLFAT receives strong adoption, positive feedback and growing community demand, I would like to explore additional desktop platforms such as **Linux** and **macOS** in the future.
 
+### 🔐 Why Microsoft Store only?
+
+I chose to distribute **MEDIA KOLFAT exclusively through the Microsoft Store** to give users a safer, more predictable, and more trustworthy installation experience.
+
+The Microsoft Store provides signed application packages, package-integrity checks, a controlled distribution channel, and a consistent installation and update process. This reduces the risk of modified, repackaged, or malicious copies being downloaded from unofficial mirrors.
+
+Key advantages include:
+
+- ✅ Signed application packages
+- ✅ Trusted Microsoft distribution infrastructure
+- ✅ Automatic and controlled updates through Windows
+- ✅ Consistent installation and removal
+- ✅ Reduced risk of tampered or repackaged installers
+- ✅ Microsoft Store certification and validation
+- ✅ A single authoritative source for the official MEDIA KOLFAT build
+
+MEDIA KOLFAT itself follows a **local-first approach**, so the normal media-management workflow keeps your photo and video library on your own computer.
+
+For these reasons, I deliberately do **not** distribute production `.exe`, `.msi`, or `.msix` installers directly through GitHub.
+
+➡️ **Official Microsoft Store download:**  
+https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
+
 ### Links
 
 - 🛍️ Microsoft Store: https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
