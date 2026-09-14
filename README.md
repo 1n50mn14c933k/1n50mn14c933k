@@ -4,6 +4,9 @@ IT System Administrator, homelab builder, and independent software developer (Vi
 
 I work on security-focused infrastructure, automation, self-hosting, and practical software projects.
 
+[![X](https://img.shields.io/badge/X-%40KOLFAT__APP-000000?logo=x&logoColor=white)](https://x.com/KOLFAT_APP)
+[![YouTube](https://img.shields.io/badge/YouTube-%40KOLFAT__APP-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@KOLFAT_APP)
+
 My current software project is **KOLFAT**, beginning with **MEDIA KOLFAT**, a Windows application for organizing and managing large photo and video collections.
 
 My infrastructure work focuses on building clean, repeatable, well-documented systems that follow real-world security practices: no secrets in Git, least privilege, backups before changes, monitoring before production, and infrastructure that can be rebuilt from documentation.
@@ -68,6 +71,8 @@ https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
 - 🛍️ Microsoft Store: https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
 - 🌐 KOLFAT: https://kolfat.app/
 - 🎞️ MEDIA KOLFAT: https://kolfat.app/en/Media_Kolfat/
+- 𝕏 X: https://x.com/KOLFAT_APP
+- ▶️ YouTube: https://www.youtube.com/@KOLFAT_APP
 - ⭐ GitHub: https://github.com/1n50mn14c933k/Media_Kolfat
 - 🛠️ Support: https://kolfat.app/support/
 
