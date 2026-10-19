@@ -26,6 +26,8 @@ MEDIA KOLFAT is a Windows desktop application designed to help users organize an
 
 **MEDIA KOLFAT is now available on the Microsoft Store.** 🎉
 
+**Latest release: MEDIA KOLFAT 1.8.0** (Microsoft Store package `1.8.0.0`, October 19, 2026). [View the latest release notes](https://github.com/1n50mn14c933k/MEDIA_KOLFAT/releases/latest).
+
 🛍️ https://apps.microsoft.com/detail/9p0x091t7mv4?ocid=webpdpshare
 
 **Core focus:**
@@ -39,6 +41,9 @@ MEDIA KOLFAT is a Windows desktop application designed to help users organize an
 - Large-library performance
 - Dedicated dark user interface
 - Local-first media processing
+- Guided COPY and Advanced COPY/MOVE workflows
+- Pause, Resume and Cancel with detailed progress tracking
+- Improved MOVE safeguards and media file visibility
 
 The core edition is available free of charge, while **MEDIA KOLFAT PRO** is intended to provide additional advanced functionality over time.
 
@@ -112,7 +117,7 @@ The proprietary MEDIA KOLFAT application source code is maintained separately in
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [MEDIA KOLFAT](https://github.com/1n50mn14c933k/Media_Kolfat) | Windows photo and video organization software | Released on Microsoft Store |
+| [MEDIA KOLFAT](https://github.com/1n50mn14c933k/MEDIA_KOLFAT) | Windows photo and video organization software | v1.8.0 available on Microsoft Store |
 | [KOLFAT](https://kolfat.app/) | Independent software project and product ecosystem | Active |
 | [homelab-core](https://github.com/1n50mn14c933k/homelab-core) | Main homelab documentation, architecture, inventory templates, and standards | Active |
 | `docker-security-stack` | Secure Docker Compose services and hardening examples | Planning |
