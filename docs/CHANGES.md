@@ -1,5 +1,15 @@
 # Profile README changes
 
+## 2026-10-27 — MEDIA KOLFAT 2.0.0 release and dual distribution
+
+- Updated the profile README to announce MEDIA KOLFAT 2.0.0 (Microsoft Store package 2.0.0.0).
+- Replaced the historical Store-only claim with the two official channels: Microsoft Store and a Windows x64 GitHub EXE installer.
+- Included information on the unsigned standalone EXE and update-channel differences.
+- Updated the public project status row and 2.0.0 feature highlights.
+- Verification: inspect the rendered profile, version references, and release links. No source code or binaries were altered.
+- Rollback: revert the profile README release-documentation commit and this record if required.
+
+
 ## 2026-10-25 — Visible optional KOLFAT support shortcut
 
 - Added one orange **☕ Support KOLFAT** badge among the top social links in the GitHub profile README, linking to https://ko-fi.com/kolfat_app.
