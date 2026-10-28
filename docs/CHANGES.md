@@ -1,5 +1,13 @@
 # Profile README changes
 
+## 2026-10-28 — Unified maid support wording
+
+- Changed the public profile README Ko-fi link to **🧹🪣❤️ Keep Our Maid Alive, Strong & Cleaning!**.
+- Preserved destination https://ko-fi.com/kolfat_app; support remains completely optional.
+- Verification: confirm the visible README label and unchanged link after merge.
+- Rollback: revert this README text change; no software or release assets were modified.
+
+
 ## 2026-10-27 — MEDIA KOLFAT 2.0.0 release and dual distribution
 
 - Updated the profile README to announce MEDIA KOLFAT 2.0.0 (Microsoft Store package 2.0.0.0).
