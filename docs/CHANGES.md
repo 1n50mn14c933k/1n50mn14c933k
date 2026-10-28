@@ -1,3 +1,7 @@
+## 2026-10-28 — Restore the orange maid-support image button
+
+Replaced the accidental bold-text support link with a normal-size (430px) clickable orange SVG Shields.io image badge in the profile README. Message: **🧹🪣❤️ Keep Our Maid Alive, Strong & Cleaning!**. Destination remains https://ko-fi.com/kolfat_app. Verified source Markdown and preserve existing profile content. Rollback: revert these two file changes.
+
 # Profile README changes
 
 ## 2026-10-28 — Unified maid support wording
