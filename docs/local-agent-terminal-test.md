@@ -2,23 +2,25 @@
 
 ## Goal
 
-Confirm that Cline can run one approved read-only terminal command and document the result.
+Confirm that a local coding agent can run one approved read-only terminal command and document its result.
 
-## Command
+## Example command
 
 ```bash
 pwd && hostname && whoami && uname -a
 ```
 
-## Output
+## Sanitized example output
 
 ```text
-/home/igadmin/1n50mn14c933k
-41l0c4lbr41n
-igadmin
-Linux 41l0c4lbr41n 7.0.0-27-generic #27-Ubuntu SMP PREEMPT_DYNAMIC Thu Jun 18 19:13:49 UTC 2026 x86_64 GNU/Linux
+/home/example-user/project
+lab-host.example
+example-user
+Linux lab-host.example 6.x.x-generic x86_64 GNU/Linux
 ```
+
+The output is illustrative, not a record of an actual workstation. Do not publish real device identifiers, usernames, home paths, IP addresses or command output in this public repository.
 
 ## Safety
 
-Only one read-only terminal command was intended for this test.
+Only an approved read-only command was intended for this test. Keep real diagnostic results in private documentation.
