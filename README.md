@@ -1,4 +1,4 @@
-# 👋 Hi, I’m 1n50mn14c933k
+# 👋 Hi, I’m 1N50MN14C933K
 
 IT System Administrator, homelab builder, and independent software developer (Vibe Coder 😉).
 
