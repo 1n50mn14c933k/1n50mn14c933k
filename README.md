@@ -16,16 +16,21 @@ I maintain a security-focused, multi-platform homelab for testing and learning r
 
 | Area | Technologies & Experience |
 | --- | --- |
-| **Operating systems** | Linux, Windows Server, Windows 10/11, macOS, Talos Linux |
-| **Virtualization** | Proxmox VE, VMware ESXi, vCenter, VMs, LXC, ZFS |
-| **Containers & orchestration** | Docker, Docker Compose, Kubernetes, Helm |
-| **Storage & high availability** | Longhorn, NAS, snapshots, replication, backup and recovery strategies |
-| **Networking, DNS & edge** | UniFi, VLANs, firewalls, routing, Technitium DNS, AdGuard Home, Cloudflare, Traefik, WireGuard, NetBird |
-| **Identity & access** | Active Directory, Authentik, MFA, SSO, RBAC, Bitwarden |
-| **Security & hardening** | Linux hardening, network segmentation, Wazuh, Kali Linux, vulnerability assessment |
+| **Operating systems** | Linux (Debian, Ubuntu, Kali), Windows Server, Windows 10/11, macOS, Talos Linux |
+| **Virtualization & compute** | Proxmox VE, VMware ESXi, vCenter, VMs, LXC, ZFS |
+| **Containers & orchestration** | Docker, Docker Compose, Kubernetes, Talos Linux, Helm, Headlamp, MetalLB |
+| **Storage & high availability** | Longhorn, NAS, ZFS, snapshots, replication, Veeam, backup and recovery strategies |
+| **Networking & DNS** | UniFi / UDM Pro, VLANs, firewalls, Technitium DNS, AdGuard Home, Unbound, Cloudflare |
+| **Reverse proxies & remote access** | **Pangolin, Gerbil, Newt, Traefik**, NetBird, WireGuard, Apache Guacamole, Kasm Workspaces, Warpgate |
+| **Identity & access** | Active Directory, Authentik, MFA, SSO / OIDC, RBAC, Bitwarden |
+| **Messaging & real-time collaboration** | Matrix Synapse, Element, LiveKit |
+| **Photos & media** | Immich, OpenVINO-based image processing |
+| **Databases & application backends** | PostgreSQL, CloudNativePG (CNPG), Redis, Valkey, SQLite, nginx |
+| **Security & hardening** | Linux hardening, network segmentation, Wazuh, Kali Linux, vulnerability assessment, Portmaster |
 | **Monitoring & observability** | Elasticsearch, PRTG, Checkmk, Uptime Kuma, centralized logging and alerting |
-| **Automation & source control** | Ansible, PowerShell, Bash, Git, GitHub, Gitea, GitHub Actions |
-| **Self-hosted services** | Immich, Matrix, Element, LiveKit, Apache Guacamole, Kasm Workspaces, Open WebUI, n8n |
+| **Automation & source control** | Ansible, Semaphore, PowerShell, Bash, Git, GitHub, Gitea, GitHub Actions, n8n |
+| **Self-hosted operations & utilities** | Nexterm, Dockhand, Wallos |
+| **Local AI** | Ollama, Open WebUI |
 
 ### Current Homelab Focus
 
